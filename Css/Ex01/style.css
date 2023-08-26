@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://www.folhavitoria.com.br/geral/blogs/midiaemercado/wp-content/uploads/2019/01/CaptacaoAguaMar_dmda0016.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: orangered;
+  border: 2px dashed white;
+}
+
+h4 {
+  color: rgba(0, 0, 0, 0.774);
+  font-size: 30px;
+}
+
+.white-text {
+  color: white;
+}
+
+.big-text {
+  color: rgb(251, 255, 0);
+  font-size: 30px;
+}
+
+#projeto-6 {
+  font-size: 30;
+  color: rgb(4, 0, 255);
+}
